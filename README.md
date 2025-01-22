@@ -1,6 +1,6 @@
 # Hi there, I'm Dzikran! 👋
 
-I'm a sophomore at Gadjah Mada University, diving into the exciting world of **software development**! Here's what I'm passionate about:
+Sophomore at Gadjah Mada University, majoring in **Computer Science**, exploring **software development**:
 
 ## 🚀 Technologies & Tools
 
