@@ -44,5 +44,7 @@ I'm a sophomore at Gadjah Mada University, diving into the exciting world of **s
 ## 🔗 Connect with Me
 
 - [X](https://x.com/Ruzieqqizeq)
+- [Instagram]([https://www.instagram.com/ruzieq_tech](https://www.instagram.com/sjdn_dzikran/?__pwa=1))
+- [LinkedIn](https://www.linkedin.com/in/dzikranazkasajidan/)
 
 Thanks for stopping by! Let's connect and build something amazing together! 🚀
