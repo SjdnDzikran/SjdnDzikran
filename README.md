@@ -28,23 +28,4 @@ Sophomore at Gadjah Mada University, majoring in **Computer Science**, exploring
 - **C++** 🖥️
 - **C#** 🔧
 
-## 🌱 Currently Learning & Exploring
-
-- Deepening my understanding of blockchain technologies.
-- Enhancing my skills in full-stack development using modern frameworks.
-
-## 📫 How to Reach Me
-
-- Feel free to drop a message here on GitHub or check out my socials linked below!
-
-## 🌟 Fun Fact
-
-- I believe that the future of software is decentralized, just like the vision of ICP!
-
-## 🔗 Connect with Me
-
-- [X](https://x.com/Ruzieqqizeq)
-- [Instagram](https://www.instagram.com/sjdn_dzikran/?__pwa=1)
-- [LinkedIn](https://www.linkedin.com/in/dzikranazkasajidan/)
-
 Thanks for stopping by! Let's connect and build something amazing together! 🚀
