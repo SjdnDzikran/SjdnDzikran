@@ -1,31 +1,62 @@
-# Hi there, I'm Dzikran! 👋
+# Hey there, I'm Dzikran! 👋🚀  
 
-Sophomore at Gadjah Mada University, majoring in **Computer Science**, exploring **software development**:
+🧑‍💻 **Code Enthusiast | Mobile & Web Dev | Blockchain Explorer**  
 
-## 🚀 Technologies & Tools
+> "Just a guy turning caffeine into code, one bug at a time. ☕🐛"
 
-- **Mobile Development** 🧑‍💻
-  - **Flutter** for crafting beautiful, cross-platform mobile apps.
+---
 
-- **Web Development** 🌐
-  - Building responsive websites and web applications.
+## 🚀 About Me  
 
-- **Blockchain** 🔗
-  - Particularly fascinated by **ICP (Internet Computer Protocol)**.
-  - Coding in **Motoko** to explore decentralized applications.
+🎓 **Computer Science Sophomore** @ Gadjah Mada University  
+🛠️ Building **mobile apps, web apps, and blockchain projects**  
+💡 Passionate about **enterprise software & decentralized tech**  
 
-- **Enterprise Solutions** 🏢
-  - Using **.NET** stack:
-    - ASP.NET Core for robust backend services
-    - Entity Framework Core for database operations
-    - Blazor for full-stack web development
-    - SQL Server for data management
+---
 
-## 💻 Languages I'm Comfortable With
+## 🔥 Tech Stack  
 
-- **Dart** 🌟
-- **Java** ☕
-- **C++** 🖥️
-- **C#** 🔧
+### 🏗️ **Frameworks & Tools**  
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![.Net](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![Svelte](https://img.shields.io/badge/Svelte-FF3E00?style=for-the-badge&logo=svelte&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
+![Motoko](https://img.shields.io/badge/Motoko-F36F24?style=for-the-badge&logo=Internet-Computer&logoColor=white)
 
-Thanks for stopping by! Let's connect and build something amazing together! 🚀
+### 💻 **Languages**  
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+
+---
+
+## 📊 GitHub Stats  
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SjdnDzikran&show_icons=true&theme=tokyonight)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SjdnDzikran&layout=compact&theme=tokyonight)  
+
+---
+
+## 🤖 Fun Stuff  
+
+🎯 **Current Mission:** Make **AI-powered Motoko Code Helper** 🤖  
+📌 **Random Dev Quote:**  
+![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)  
+
+💡 **Fun Fact:** If I had a coin for every time I debugged for hours just to find a missing semicolon, I'd be a crypto whale by now. 🐋💰  
+
+---
+
+## 📬 Let's Connect  
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dzikranazkasajidan/)
+[![Twitter](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/Ruzieqqizeq)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/sjdn_dzikran)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=firefox&logoColor=white)](https://yourwebsite.com)
+
+---
+
+**🎉 Thanks for stopping by! Let’s build something amazing together. 🚀**
