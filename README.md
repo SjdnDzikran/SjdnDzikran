@@ -59,6 +59,8 @@
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/sjdn_dzikran)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=firefox&logoColor=white)](https://yourwebsite.com)
 
+![Visitor Count](https://komarev.com/ghpvc/?username=SjdnDzikran&color=blue&style=flat)
+
 ---
 
 **🎉 Thanks for stopping by! Let’s build something amazing together. 🚀**
