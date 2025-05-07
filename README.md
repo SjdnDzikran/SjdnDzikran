@@ -1,6 +1,6 @@
 # Hey there, I'm Dzikran! 👋🚀  
 
-🧑‍💻 **Code Enthusiast | Mobile & Web Dev | Blockchain Explorer**  
+🧑‍💻 **Verified Vibe Coder | Mobile & Web Dev | 10x Engineer**  
 
 > "Just a guy turning caffeine into code, one bug at a time. ☕🐛"
 
