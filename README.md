@@ -1,6 +1,6 @@
 # Hey there, I'm Dzikran! 👋🚀  
 
-🧑‍💻 **Verified Vibe Coder | Mobile & Web Dev | 10x Engineer**  
+🧑‍💻 **Mobile & Web Dev | 10x Engineer**  
 
 > "Just a guy turning caffeine into code, one bug at a time. ☕🐛"
 
@@ -37,8 +37,17 @@
 
 ## 📊 GitHub Stats  
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SjdnDzikran&show_icons=true&theme=tokyonight)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SjdnDzikran&layout=compact&theme=tokyonight)  
+<table align="center">
+  <tr>
+    <td align="center">
+      <img src="https://github-readme-stats.vercel.app/api?username=SjdnDzikran&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+    </td>
+    <td align="center">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SjdnDzikran&layout=compact&theme=tokyonight" alt="Top Languages" />
+    </td>
+  </tr>
+</table>
+
 
 ---
 
@@ -46,7 +55,10 @@
 
 🎯 **Current Mission:** Make **AI-powered Motoko Code Helper** 🤖  
 📌 **Random Dev Quote:**  
-![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)  
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Quote" />
+</p>
+
 
 💡 **Fun Fact:** If I had a coin for every time I debugged for hours just to find a missing semicolon, I'd be a crypto whale by now. 🐋💰  
 
