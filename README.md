@@ -53,7 +53,7 @@
 
 ## 🤖 Fun Stuff  
 
-🎯 **Current Mission:** Make **AI-powered Motoko Code Helper** 🤖  
+🎯 **Current Mission:** Crafting software that makes a real-world impact  
 📌 **Random Dev Quote:**  
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Quote" />
