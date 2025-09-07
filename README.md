@@ -1,6 +1,6 @@
 # Hey there, I'm Dzikran! 👋🚀  
 
-🧑‍💻 **Mobile & Web Dev | 10x Engineer**  
+🧑‍💻 **Mobile & Web Dev**  
 
 > "Just a guy turning caffeine into code, one bug at a time. ☕🐛"
 
