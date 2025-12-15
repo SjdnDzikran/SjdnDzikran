@@ -8,7 +8,7 @@
 
 ## 🚀 About Me  
 
-🎓 **Computer Science Sophomore** @ Gadjah Mada University  
+🎓 **Computer Science Junior** @ Gadjah Mada University  
 🛠️ Building **mobile apps, web apps, and blockchain projects**  
 💡 Passionate about **enterprise software & decentralized tech**  
 
