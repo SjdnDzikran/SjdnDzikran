@@ -1,78 +1,24 @@
-# Hey there, I'm Dzikran! 👋🚀  
+# Dzikran Azka Sajidan
 
-🧑‍💻 **Mobile & Web Dev**  
+Computer Science student at Universitas Gadjah Mada. I build mobile and web apps, and I'm currently focused on AI-powered products that automate real workflows — inspection report generation and WhatsApp customer service.
 
-> "Just a guy turning caffeine into code, one bug at a time. ☕🐛"
+## Selected work
 
----
+- [skills](https://github.com/SjdnDzikran/skills) — agent skills for PR automation and dev environment setup
+- [Portfolio](https://dzikran.sumbu.xyz/)
 
-## 🚀 About Me  
+## Stack
 
-🎓 **Computer Science Junior** @ Gadjah Mada University  
-🛠️ Building **mobile apps, web apps, and blockchain projects**  
-💡 Passionate about **enterprise software & decentralized tech**  
+**Languages:** Dart · TypeScript · C# · C++
+**Mobile:** Flutter
+**Web:** Svelte · React · Vite
+**Backend:** .NET · NestJS · Express
+**Other:** Motoko (Internet Computer)
 
----
+## GitHub stats
 
-## 🔥 Tech Stack  
+<img src="https://github-readme-stats.vercel.app/api?username=SjdnDzikran&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
 
-### 🏗️ **Frameworks & Tools**  
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-![.Net](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-![Svelte](https://img.shields.io/badge/Svelte-FF3E00?style=for-the-badge&logo=svelte&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
-![Motoko](https://img.shields.io/badge/Motoko-F36F24?style=for-the-badge&logo=Internet-Computer&logoColor=white)
-![Express](https://img.shields.io/badge/Express%20js-000000?style=for-the-badge&logo=express&logoColor=white)  
-![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
+## Contact
 
-### 💻 **Languages**  
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-
----
-
-## 📊 GitHub Stats  
-
-<table align="center">
-  <tr>
-    <td align="center">
-      <img src="https://github-readme-stats.vercel.app/api?username=SjdnDzikran&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-    </td>
-    <td align="center">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SjdnDzikran&layout=compact&theme=tokyonight" alt="Top Languages" />
-    </td>
-  </tr>
-</table>
-
-
----
-
-## 🤖 Fun Stuff  
-
-🎯 **Current Mission:** Crafting software that makes a real-world impact  
-📌 **Random Dev Quote:**  
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Quote" />
-</p>
-
-
-💡 **Fun Fact:** If I had a coin for every time I debugged for hours just to find a missing semicolon, I'd be a crypto whale by now. 🐋💰  
-
----
-
-## 📬 Let's Connect  
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dzikranazkasajidan/)
-[![Twitter](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/Ruzieqqizeq)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/sjdn_dzikran)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=firefox&logoColor=white)](https://dzikran.sumbu.xyz/)
-
-![Visitor Count](https://komarev.com/ghpvc/?username=SjdnDzikran&color=blue&style=flat)
-
----
-
-**🎉 Thanks for stopping by! Let’s build something amazing together. 🚀**
+[LinkedIn](https://www.linkedin.com/in/dzikranazkasajidan/) · [X](https://x.com/Ruzieqqizeq) · [Instagram](https://www.instagram.com/sjdn_dzikran)
